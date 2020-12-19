@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+.achievementshead {
+    border-radius: 10px;
+    text-align: left;
+    padding-left: 22px;
+}
